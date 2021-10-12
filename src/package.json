@@ -1,0 +1,23 @@
+{
+  "name": "my_project",
+  "version": "1.0.0",
+  "description": "My first real project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "node",
+    "nodejs",
+    "js"
+  ],
+  "author": "Anna Serikova <lamia027@yandex.ru>",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  }
+}
